@@ -8,7 +8,9 @@ This repository contains a custom syntax mode for Wordpress in Coda 2. The mode 
 
 Installation
 ------------
-To install this mode you must navigate to the Coda 2 install directory and copy the .mode file into the Modes folder.
+**To install this mode automatically** simply download the files, unzip them and open the .mode file with Coda 2. You can do the same with the clips.
+
+**To install this mode manually** you must navigate to the Coda 2 install directory and copy the .mode file into the Modes folder.
 
 Open Terminal and run the following command:
 
