@@ -6,7 +6,6 @@ Coda 2 - Wordpress Syntax Mode
 This repository contains a custom syntax mode for Wordpress in Coda 2. The mode includes the following:
 * HTML/PHP syntax highlighting
 * Wordpress code completion
-* A snippet clip set for Wordpress queries
 
 Installation
 ------------
