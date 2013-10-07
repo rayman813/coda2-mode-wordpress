@@ -27,8 +27,8 @@ When Finder opens, you will see multiple folders. Drag WordPress.mode into the M
 How to Use
 ----------
 
-* To use the syntax mode you must first open or create a .php file. NOTE: If you are not seeing the Wordpress syntax mode you might need to restart Coda. 
-* You must then set the sytnax mode to Wordpress by clicking the gear icon in the lower left hand corner of Coda. 
+* To use the syntax mode you must first open or create a .php file. 
+* You must then set the sytnax mode to Wordpress by clicking the gear icon in the lower left hand corner of Coda. *NOTE:* If you are not seeing the Wordpress syntax mode you might need to restart Coda. 
 * Now you will need to open a PHP tag (ie `<?php`). 
 * Once you are inside of the PHP syntax mode you will start seeing the code completion dropdown - try opening a function starting with "get_" and you should see a long list of completion hints.
 
