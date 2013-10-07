@@ -1,7 +1,7 @@
 Coda 2 - Wordpress Syntax Mode
 ==================================
 
-**Compatible for Wordpress 3.6 and newer**
+**Now compatible for Wordpress 3.6**
 
 This repository contains a custom syntax mode for Wordpress in Coda 2. The mode includes the following:
 * HTML/PHP syntax highlighting
