@@ -1,4 +1,4 @@
-Coda 2 - Wordpress 3.6+ Syntax Mode
+Coda 2 - Wordpress Syntax Mode
 ==================================
 
 **Compatible for Wordpress 3.6 and newer**
