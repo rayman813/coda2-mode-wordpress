@@ -27,8 +27,8 @@ How to Use
 ----------
 
 * To use the syntax mode you must first open or create a .php file. 
-* You must then set the sytnax mode to Wordpress by clicking the gear icon in the lower left hand corner of Coda. *NOTE:* If you are not seeing the Wordpress syntax mode you might need to restart Coda. 
-* Now you will need to open a PHP tag (ie `<?php`). 
+* You must then set the syntax mode to Wordpress by clicking the gear icon in the lower left hand corner of Coda. *NOTE:* If you are not seeing the Wordpress syntax mode you may need to restart Coda. 
+* Now you will need to open a PHP tag - `<?php` 
 * Once you are inside of the PHP syntax mode you will start seeing the code completion dropdown - try opening a function starting with "get_" and you should see a long list of completion hints.
 
 That's it! You're all set! If you have any additions you would like to make, you can either comment here, send a pull request or contact me on my website: www.matthewray.com
