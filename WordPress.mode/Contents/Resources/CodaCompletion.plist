@@ -38274,6 +38274,73 @@
 		</dict>
 
 		<dict>
+			<key>ID</key><string>wp_dashboard_quick_press</string>
+			<key>String</key><string>wp_dashboard_quick_press</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{25, 0}</string>
+		</dict>
+
+		<dict>
+			<key>ID</key><string>wp_dashboard_site_activity</string>
+			<key>String</key><string>wp_dashboard_site_activity</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{27, 0}</string>
+		</dict>
+		
+		<dict>
+			<key>ID</key><string>wp_dashboard_recent_posts</string>
+			<key>String</key><string>wp_dashboard_recent_posts</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{26, 0}</string>
+		</dict>
+		
+		<dict>
+			<key>ID</key><string>wp_dashboard_recent_comments</string>
+			<key>String</key><string>wp_dashboard_recent_comments</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{29, 0}</string>
+		</dict>
+		
+		<dict>
+			<key>ID</key><string>wp_dashboard_primary_output</string>
+			<key>String</key><string>wp_dashboard_primary_output</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{28, 0}</string>
+		</dict>
+		
+		<dict>
+			<key>ID</key><string>wp_heartbeat_set_suspension</string>
+			<key>String</key><string>wp_heartbeat_set_suspension</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{28, 0}</string>
+		</dict>
+		
+		<dict>
+			<key>ID</key><string>wp_star_rating</string>
+			<key>String</key><string>wp_star_rating</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{15, 0}</string>
+			<key>Parameters</key>
+			<array>
+				<string>array $args</string>
+			</array>
+		</dict>
+		
+		<dict>
+			<key>ID</key><string>get_theme_update_available</string>
+			<key>String</key><string>get_theme_update_available</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{27, 0}</string>
+		</dict>
+		
+		<dict>
+			<key>ID</key><string>wp_prepare_themes_for_js</string>
+			<key>String</key><string>wp_prepare_themes_for_js</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{25, 0}</string>
+		</dict>
+
+		<dict>
 			<key>ID</key><string>wp_add_id3_tag_data</string>
 			<key>String</key><string>wp_add_id3_tag_data</string>
 			<key>PostString</key><string>()</string>
