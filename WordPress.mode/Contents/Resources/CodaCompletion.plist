@@ -44797,6 +44797,27 @@
 			<key>PostString</key><string>()</string>
 			<key>SelectionRange</key><string>{25, 0}</string>
 		</dict>
+		
+		<dict>
+			<key>ID</key><string>wp_get_network</string>
+			<key>String</key><string>wp_get_network</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{15, 0}</string>
+		</dict>
+		
+		<dict>
+			<key>ID</key><string>get_site_by_path</string>
+			<key>String</key><string>get_site_by_path</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{17, 0}</string>
+		</dict>
+		
+		<dict>
+			<key>ID</key><string>get_network_by_path</string>
+			<key>String</key><string>get_network_by_path</string>
+			<key>PostString</key><string>()</string>
+			<key>SelectionRange</key><string>{20, 0}</string>
+		</dict>
 
 	</array>
 	<key>LineCompletion</key>
